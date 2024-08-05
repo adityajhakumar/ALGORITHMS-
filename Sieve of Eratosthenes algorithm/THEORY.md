@@ -46,8 +46,3 @@ The Sieve of Eratosthenes is an ancient algorithm used to find all prime numbers
    2, 3, 5, 7, 11, 13, 17, 19, 23, 29
    ```
 
-### Python Implementation
-
-
-
-This algorithm is efficient with a time complexity of \(O(n \log \log n)\) and works well for finding all primes up to a large number.
