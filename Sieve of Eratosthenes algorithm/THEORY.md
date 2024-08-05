@@ -1,4 +1,4 @@
-Sure! The Sieve of Eratosthenes is an ancient algorithm used to find all prime numbers up to a given limit. It is simple yet efficient, making it a great starting point for beginners in understanding algorithms and prime numbers. Here's a step-by-step explanation:
+The Sieve of Eratosthenes is an ancient algorithm used to find all prime numbers up to a given limit. It is simple yet efficient, making it a great starting point for beginners in understanding algorithms and prime numbers. Here's a step-by-step explanation:
 
 ### Step-by-Step Explanation
 
